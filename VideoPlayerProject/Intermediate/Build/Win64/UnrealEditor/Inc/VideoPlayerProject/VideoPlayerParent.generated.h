@@ -14,8 +14,18 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define VIDEOPLAYERPROJECT_VideoPlayerParent_generated_h
 
 #define FID_VideoPlayerProject_Source_VideoPlayerProject_VideoPlayerParent_h_12_SPARSE_DATA
-#define FID_VideoPlayerProject_Source_VideoPlayerProject_VideoPlayerParent_h_12_RPC_WRAPPERS
-#define FID_VideoPlayerProject_Source_VideoPlayerProject_VideoPlayerParent_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_VideoPlayerProject_Source_VideoPlayerProject_VideoPlayerParent_h_12_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execPauseVideo); \
+	DECLARE_FUNCTION(execPlayVideo);
+
+
+#define FID_VideoPlayerProject_Source_VideoPlayerProject_VideoPlayerParent_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execPauseVideo); \
+	DECLARE_FUNCTION(execPlayVideo);
+
+
 #define FID_VideoPlayerProject_Source_VideoPlayerProject_VideoPlayerParent_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAVideoPlayerParent(); \

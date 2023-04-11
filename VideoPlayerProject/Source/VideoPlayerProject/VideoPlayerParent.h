@@ -30,15 +30,15 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
-public:
 	//VARIABLES
-	// Stores the media player in which to play the selected video with
-	UPROPERTY(EditAnywhere,BlueprintReadWrite)
-		UMediaPlayer* MediaPlayer;
 	// Stores the selected video to play
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 		UMediaSource* MediaSource;
+
+	// Stores the media player in which to play the selected video with
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		UMediaPlayer* MediaPlayer;
 	// Stores the time at which to start the video from
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		FTimespan* StartTime;
+		FTimespan StartTime;
 };

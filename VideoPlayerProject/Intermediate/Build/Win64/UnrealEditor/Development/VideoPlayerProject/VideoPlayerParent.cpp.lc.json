@@ -1,0 +1,24 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\coding\\unrealengine\\videoplyer\\videoplayer\\videoplayerproject\\source\\videoplayerproject\\videoplayerparent.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\coding\\unrealengine\\videoplyer\\videoplayer\\videoplayerproject\\intermediate\\build\\win64\\videoplayerprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\coding\\unrealengine\\videoplyer\\videoplayer\\videoplayerproject\\intermediate\\build\\win64\\unrealeditor\\development\\videoplayerproject\\definitions.videoplayerproject.h",
+            "e:\\coding\\unrealengine\\videoplyer\\videoplayer\\videoplayerproject\\source\\videoplayerproject\\videoplayerparent.h",
+            "e:\\coding\\unrealengine\\videoplyer\\videoplayer\\videoplayerproject\\intermediate\\build\\win64\\unrealeditor\\inc\\videoplayerproject\\videoplayerparent.generated.h",
+            "e:\\unrealengine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "e:\\unrealengine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "e:\\unrealengine\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "e:\\unrealengine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\kismetsystemlibrary.generated.h",
+            "e:\\unrealengine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "e:\\unrealengine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\dialoguetypes.generated.h",
+            "e:\\unrealengine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "e:\\unrealengine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystaticstypes.generated.h",
+            "e:\\unrealengine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystatics.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

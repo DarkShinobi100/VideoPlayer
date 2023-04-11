@@ -2,6 +2,7 @@
 
 
 #include "VideoPlayerParent.h"
+#include "Kismet/GameplayStatics.h"
 
 // Sets default values
 AVideoPlayerParent::AVideoPlayerParent()
