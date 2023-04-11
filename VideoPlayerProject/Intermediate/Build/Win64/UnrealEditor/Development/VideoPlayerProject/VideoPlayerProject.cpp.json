@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\coding\\unrealengine\\videoplyer\\videoplayer\\videoplayerproject\\source\\videoplayerproject\\videoplayerproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\coding\\unrealengine\\videoplyer\\videoplayer\\videoplayerproject\\intermediate\\build\\win64\\videoplayerprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\coding\\unrealengine\\videoplyer\\videoplayer\\videoplayerproject\\intermediate\\build\\win64\\unrealeditor\\development\\videoplayerproject\\definitions.videoplayerproject.h",
+            "e:\\coding\\unrealengine\\videoplyer\\videoplayer\\videoplayerproject\\source\\videoplayerproject\\videoplayerproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

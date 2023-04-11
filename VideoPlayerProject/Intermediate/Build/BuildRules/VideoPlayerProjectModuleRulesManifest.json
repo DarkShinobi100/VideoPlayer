@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Coding\\UnrealEngine\\VideoPlyer\\VideoPlayer\\VideoPlayerProject\\Source\\VideoPlayerProject\\VideoPlayerProject.Build.cs",
+		"E:\\Coding\\UnrealEngine\\VideoPlyer\\VideoPlayer\\VideoPlayerProject\\Source\\VideoPlayerProject.Target.cs",
+		"E:\\Coding\\UnrealEngine\\VideoPlyer\\VideoPlayer\\VideoPlayerProject\\Source\\VideoPlayerProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

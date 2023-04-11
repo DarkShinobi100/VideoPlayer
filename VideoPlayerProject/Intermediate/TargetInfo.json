@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VideoPlayerProject",
+			"Path": "E:\\Coding\\UnrealEngine\\VideoPlyer\\VideoPlayer\\VideoPlayerProject\\Source\\VideoPlayerProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VideoPlayerProjectEditor",
+			"Path": "E:\\Coding\\UnrealEngine\\VideoPlyer\\VideoPlayer\\VideoPlayerProject\\Source\\VideoPlayerProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

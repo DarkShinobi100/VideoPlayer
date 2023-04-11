@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VideoPlayerProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Coding\UnrealEngine\VideoPlyer\VideoPlayer\VideoPlayerProject\Intermediate\Build\Win64\VideoPlayerProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Coding\UnrealEngine\VideoPlyer\VideoPlayer\VideoPlayerProject\Intermediate\Build\Win64\UnrealEditor\Development\VideoPlayerProject\VideoPlayerParent.cpp.obj"
+"E:\Coding\UnrealEngine\VideoPlyer\VideoPlayer\VideoPlayerProject\Intermediate\Build\Win64\UnrealEditor\Development\VideoPlayerProject\VideoPlayerProject.cpp.obj"
+"E:\Coding\UnrealEngine\VideoPlyer\VideoPlayer\VideoPlayerProject\Intermediate\Build\Win64\UnrealEditor\Development\VideoPlayerProject\VideoPlayerParent.gen.cpp.obj"
+"E:\Coding\UnrealEngine\VideoPlyer\VideoPlayer\VideoPlayerProject\Intermediate\Build\Win64\UnrealEditor\Development\VideoPlayerProject\VideoPlayerProject.init.gen.cpp.obj"
+"E:\Coding\UnrealEngine\VideoPlyer\VideoPlayer\VideoPlayerProject\Intermediate\Build\Win64\UnrealEditor\Development\VideoPlayerProject\Default.rc2.res"
+/OUT:"E:\Coding\UnrealEngine\VideoPlyer\VideoPlayer\VideoPlayerProject\Intermediate\Build\Win64\UnrealEditor\Development\VideoPlayerProject\UnrealEditor-VideoPlayerProject.lib"
