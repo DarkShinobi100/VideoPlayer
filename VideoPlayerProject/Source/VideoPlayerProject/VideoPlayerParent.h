@@ -32,13 +32,13 @@ public:
 
 	//VARIABLES
 	// Stores the selected video to play
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		UMediaSource* MediaSource;
+	//UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	//	UMediaSource* MediaSource;
 
-	// Stores the media player in which to play the selected video with
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		UMediaPlayer* MediaPlayer;
-	// Stores the time at which to start the video from
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		FTimespan StartTime;
+	//// Stores the media player in which to play the selected video with
+	//UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	//	UMediaPlayer* MediaPlayer;
+	//// Stores the time at which to start the video from
+	//UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	//	FTimespan StartTime;
 };
